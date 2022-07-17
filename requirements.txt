@@ -1,0 +1,14 @@
+numpy
+tensorflow
+torch
+torchvision
+torchaudio
+python-mnist
+opencv-python-headless
+pymongo
+grpcio
+grpcio-tools
+Flask
+Flask-Cors
+matplotlib
+jupyter
